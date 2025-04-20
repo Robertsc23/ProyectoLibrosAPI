@@ -1,0 +1,15 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vsp
+*.psess
+*.vspx
+
+packages/
+
+.env
+
+*.db
+*.sqlite
